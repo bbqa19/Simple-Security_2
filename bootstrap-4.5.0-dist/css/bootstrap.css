@@ -4347,6 +4347,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+
 }
 
 .navbar .container,
@@ -4366,9 +4367,10 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   line-height: inherit;
   white-space: nowrap;
+  color: #fff;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
