@@ -30,7 +30,7 @@ body {
   transition: background-color .5s ease 0s;
 }
 .navbar-brand img {
-  height: 3.5rem;
+  height: 2.5rem;
 }
 .svg-inline--fa.fa-w-14 {
   color: white;
@@ -83,13 +83,9 @@ body {
 /*============= LANDING PAGE =============*/
 
 .home-inner {
-  background-image: url('img/hm_bg1-3.png');
+  background-image: url('img/ss-logo_2.png');
 }
-.home-inner img {
-  padding-top: 3rem;
-    padding-left: 3rem;
-  height: 6.5rem;
-}
+
 .caption {
   width: 100%;
   max-width: 100%;
