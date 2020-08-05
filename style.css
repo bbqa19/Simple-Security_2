@@ -40,7 +40,7 @@ body {
   padding-right: .8rem;
 }
 .navbar-nav .nav-link {
-  color: white;
+  color: #77b5ef;
   padding-top: .8rem;
 }
 .navbar-nav .nav-link.active,
@@ -48,7 +48,7 @@ body {
   color: #6497b1;
 }
 .navbar.solid {
-  background: rgba(3, 57, 108, 0.9)!important;
+  background: rgba(3, 57, 108, 0.7)!important;
   transition: background-color 1s ease 0s;
 }
 /*--- Drop-down Menu --*/
@@ -83,9 +83,16 @@ body {
 /*============= LANDING PAGE =============*/
 
 .home-inner {
-  background-image: url('img/ss-logo_2.png');
-}
+  background-image: url('img/hm_bg1-1.png');
 
+}
+.home-inner-img {
+   position: relative;
+    max-width: 50%;
+    margin: 0 auto;
+     
+   
+}
 .caption {
   width: 100%;
   max-width: 100%;
