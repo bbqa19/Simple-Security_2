@@ -34,7 +34,7 @@ body {
 }
 .navbar-brand-a {
  color: #fff;
- font-size: 0.9rem;
+ font-size: 1.1rem;
 }
 .svg-inline--fa.fa-w-14 {
   color: white;
@@ -44,7 +44,7 @@ body {
   padding-right: .8rem;
 }
 .navbar-nav .nav-link {
-  color: #77b5ef;
+  color: white;
   padding-top: .8rem;
 }
 .navbar-nav .nav-link.active,
